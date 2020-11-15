@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login user" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-15T18:47:44" hostname="EMPDESARROLLO08" time="0.203">
+  <properties/>
+  <testcase name="login" classname="Login user" time="0.203"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
