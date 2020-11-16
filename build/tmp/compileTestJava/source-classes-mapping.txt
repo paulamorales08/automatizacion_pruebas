@@ -2,3 +2,7 @@ starter/CucumberTestSuite.java
  starter.CucumberTestSuite
 starter/stepdefinitions/LoginStepDefinitions.java
  starter.stepdefinitions.LoginStepDefinitions
+starter/login/doLogin.java
+ starter.login.doLogin
+starter/login/Login.java
+ starter.login.Login
